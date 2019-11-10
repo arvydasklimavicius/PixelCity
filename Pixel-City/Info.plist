@@ -50,8 +50,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
@@ -60,5 +58,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This App requires your location to pull photos from Flickr</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This App requires your location to pull photos from Flickr</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This App requires your location to pull photos from Flickr</string>
 </dict>
 </plist>
